@@ -1,4 +1,4 @@
-# 00.  hello_cpp
+# 01.  hello_cpp
 c++ version of basic hello world w/ cmake 
 
 This project will exercise the core tools used for c++ development.
